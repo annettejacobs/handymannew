@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 20,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -55,7 +55,7 @@
           },
           "_anchor": "header2-7",
           "_params": {
-            "imageSize": "46",
+            "imageSize": "33",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
@@ -78,7 +78,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/man-1400x1905.png",
+              "src": "@PROJECT_PATH@/assets/images/handyman-clipart-y9izgydce-1400x1473.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -172,7 +172,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -194,7 +194,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Powered by DevSA</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Installations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Repairs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Painting</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Installations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Repairs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Painting</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
         },
         {
           "_inherit": "features4",
@@ -336,43 +336,42 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
+        }
+      ]
+    },
+    "contactus.html": {
+      "settings": {
+        "title": "Web Site Creator Title",
+        "meta_descr": "Web Site Creator Description"
+      },
+      "components": [
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts4",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts4-g",
+          "_name": "form1",
+          "_anchor": "form1-j",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c0a375",
+            "bgColor": "#90a878",
             "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
           },
-          "text1": "<b>CONTACTS</b><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: support@mobirise.com</span><br>\nPhone: +(27)83 378 5824<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><b>LINK</b></p><p class=\"mbr-contacts__text\"><span style=\"font-size: 0.875rem; line-height: 1.5;\">Website Creator</span><br></p><p class=\"mbr-contacts__text\"><br></p>",
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
-            "title": "MESSAGE",
-            "action": "developersouthafrica@gmail.com",
+            "action": "qasmooth@gmail.com",
             "alerts": {
-              "success": "Thank you!"
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -388,15 +387,116 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone*"
+                "customTitle": "Phone"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message*"
+                "customTitle": "Message"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "10px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/idea-light-bulb-cartoon-toonvectors-36580-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Powered by DevSA</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Installations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Repairs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Painting</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
         }
       ]
     }
