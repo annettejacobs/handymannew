@@ -78,7 +78,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/handyman-clipart-y9izgydce-1400x1473.jpg",
+              "src": "@PROJECT_PATH@/assets/images/24-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -100,7 +100,7 @@
             }
           },
           "title": "GEORGE BESTER: HANDYMAN",
-          "text": "DO YOU NEED ASSISTANCE WITH &nbsp;YOUR DIY JOBS.&nbsp;<br>SPECIALIZING IN: INSTALLATIONS,<br>MAINTENANCE, REPAIRS, DRYWALLING,<br>PAINTING AND MUCH MORE.&nbsp;<br><br>NO JOB IS CONSIDERED TOO SMALL.<br><span style=\"font-size: 1rem; line-height: 1.5;\">COVER AREAS FROM THE EAST TO THE WEST</span><br>",
+          "text": "DO YOU NEED ASSISTANCE WITH &nbsp;YOUR DIY JOBS.&nbsp;<br>SPECIALIZING IN: INSTALLATIONS,<br>MAINTENANCE, REPAIRS, DRYWALLING,<br>PAINTING AND MUCH MORE.&nbsp;<br><br>NO JOB IS CONSIDERED TOO SMALL.<br><span style=\"font-size: 1rem; line-height: 1.5;\">COVER AREAS: WEST RAND, JOHANNESBURG, </span><br><span style=\"font-size: 1rem; line-height: 1.5;\">EAST RAND AND THE SOUTH</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -371,7 +371,7 @@
           "form": {
             "action": "qasmooth@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for sending a message!"
             },
             "fields": {
               "name": {
@@ -387,11 +387,11 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Phone*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message*"
               }
             }
           },
