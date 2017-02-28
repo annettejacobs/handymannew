@@ -55,7 +55,7 @@
           },
           "_anchor": "header2-7",
           "_params": {
-            "imageSize": "33",
+            "imageSize": "27",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
