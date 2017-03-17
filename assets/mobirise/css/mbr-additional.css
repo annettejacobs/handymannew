@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
@@ -426,7 +427,7 @@ h6,
 #menu-9 .navbar-caption {
   color: #ffffff;
   font-size: 10px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-9 .navbar-toggler {
   color: #ffffff;
@@ -486,6 +487,7 @@ h6,
 }
 
 
+
 #header1-k .mbr-section-title {
   color: #c0a375;
   font-size: 48px;
@@ -493,6 +495,7 @@ h6,
 }
 #header1-k .mbr-section-lead {
   font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
@@ -500,7 +503,7 @@ h6,
 #menu-9 .navbar-caption {
   color: #ffffff;
   font-size: 10px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-9 .navbar-toggler {
   color: #ffffff;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Handyman",
-    "currentPage": "Home.html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -104,8 +104,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "10px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -188,12 +188,12 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DeveloperSA.co.za</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MAIN SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Installations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Repairs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Painting</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DeveloperSouthAfrica.co.za</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MAIN SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Installations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Repairs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Painting</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
         }
       ]
     },
-    "Home.html": {
+    "Index.html": {
       "settings": {
         "main": true,
         "title": "",
@@ -215,7 +215,9 @@
               "text-align": "left"
             },
             ".mbr-section-lead": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_anchor": "header1-k",
@@ -239,7 +241,7 @@
             "showButtons": false
           },
           "title": "GEORGE'S HANDYMAN",
-          "text": "DO YOU NEED ASSISTANCE WITH  YOUR DIY JOBS. <br>SPECIALIZING IN: INSTALLATIONS,<br>MAINTENANCE, REPAIRS, DRYWALLING,<br>PAINTING AND MUCH MORE. <br><br>NO JOB IS CONSIDERED TOO SMALL.<br>COVER AREAS: WEST RAND, JOHANNESBURG, <br>EAST RAND AND THE SOUTH<br>",
+          "text": "<b>DO YOU NEED ASSISTANCE WITH  YOUR DIY JOBS. <br>SPECIALIZING IN: INSTALLATIONS,<br>MAINTENANCE, REPAIRS, DRYWALLING,<br>PAINTING AND MUCH MORE.</b> <br><br>NO JOB IS CONSIDERED TOO SMALL.<br>COVER AREAS: WEST RAND, JOHANNESBURG, <br>EAST RAND AND THE SOUTH<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -250,8 +252,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "10px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -334,8 +336,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DeveloperSA.co.za</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MAIN SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Installations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Repairs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Painting</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DeveloperSouthAfrica.co.za</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MAIN SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Installations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Repairs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#features7-c\">Painting</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\" target=\"_blank\">CONTACT US</a></li>"
         },
         {
           "_inherit": "features4",
